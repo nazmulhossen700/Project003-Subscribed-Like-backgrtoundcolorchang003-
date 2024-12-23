@@ -1,0 +1,25 @@
+
+
+body {
+  text-align: center;
+}
+
+button {
+  background-color: red;
+  border: 0;
+  padding: 20px 45px;
+  color: white;
+  font-size: 25px;
+  font-weight: 700;
+  border-radius: 10px;
+  margin-top: 50px;
+  cursor: pointer;
+}
+
+/* background color chang */
+.bgColorChang{
+  font-size: 40px;
+  color: black;
+  margin-top: 50px;
+  cursor: pointer;
+}
